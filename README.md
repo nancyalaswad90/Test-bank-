@@ -10,4 +10,5 @@
 - [Study guide for Exam PL-300: Microsoft Power BI Data Analyst](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/pl-300)
 
 
-> ##[AWS Ai practitioner]()
+> ## [AWS Ai practitioner]()
+
